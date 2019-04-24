@@ -24,7 +24,7 @@ const Body = () => {
             <p>
                 Um método bem popular consista na instalação de um turbo compressor, o famoso <em>caracol</em>!
                 O funcionamento é extremamente simples, mas antes vamos revisar alguns conceitos!
-                Os motores a cumbustão tipicamento são do <TextLink text="ciclo otto" link="https://www.kbb.com.br/detalhes-noticia/o-que-e-ciclo-otto/?ID=1270" />
+                Os motores a cumbustão tipicamento são do <TextLink text="ciclo otto" link="https://www.embarcados.com.br/motores-de-combustao-interna-ciclo-otto/" />
                 , esse motor possui 4 fases
                 <Image
                     src={cicloOtto}

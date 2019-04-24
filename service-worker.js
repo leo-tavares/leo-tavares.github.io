@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/leo-tavares/leo-tavares.github.io/precache-manifest.35b3a147e1bf2943fd457d4050fdd0a5.js"
+  "/leo-tavares/leo-tavares.github.io/tree/gh-pages/precache-manifest.eb47a325ecc0679c009934a3dd390564.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/leo-tavares/leo-tavares.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/leo-tavares/leo-tavares.github.io/tree/gh-pages/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

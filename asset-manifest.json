@@ -1,14 +1,14 @@
 {
-  "main.css": "/leo-tavares/leo-tavares.github.io/static/css/main.db4a5207.chunk.css",
-  "main.js": "/leo-tavares/leo-tavares.github.io/static/js/main.d199949b.chunk.js",
-  "main.js.map": "/leo-tavares/leo-tavares.github.io/static/js/main.d199949b.chunk.js.map",
-  "runtime~main.js": "/leo-tavares/leo-tavares.github.io/static/js/runtime~main.0f061e06.js",
-  "runtime~main.js.map": "/leo-tavares/leo-tavares.github.io/static/js/runtime~main.0f061e06.js.map",
-  "static/js/2.90e6ada7.chunk.js": "/leo-tavares/leo-tavares.github.io/static/js/2.90e6ada7.chunk.js",
-  "static/js/2.90e6ada7.chunk.js.map": "/leo-tavares/leo-tavares.github.io/static/js/2.90e6ada7.chunk.js.map",
-  "index.html": "/leo-tavares/leo-tavares.github.io/index.html",
-  "precache-manifest.35b3a147e1bf2943fd457d4050fdd0a5.js": "/leo-tavares/leo-tavares.github.io/precache-manifest.35b3a147e1bf2943fd457d4050fdd0a5.js",
-  "service-worker.js": "/leo-tavares/leo-tavares.github.io/service-worker.js",
-  "static/css/main.db4a5207.chunk.css.map": "/leo-tavares/leo-tavares.github.io/static/css/main.db4a5207.chunk.css.map",
-  "static/media/profile.jpeg": "/leo-tavares/leo-tavares.github.io/static/media/profile.6134e0e0.jpeg"
+  "main.css": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/css/main.db4a5207.chunk.css",
+  "main.js": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/js/main.d199949b.chunk.js",
+  "main.js.map": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/js/main.d199949b.chunk.js.map",
+  "runtime~main.js": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/js/runtime~main.795f72d9.js",
+  "runtime~main.js.map": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/js/runtime~main.795f72d9.js.map",
+  "static/js/2.90e6ada7.chunk.js": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/js/2.90e6ada7.chunk.js",
+  "static/js/2.90e6ada7.chunk.js.map": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/js/2.90e6ada7.chunk.js.map",
+  "index.html": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/index.html",
+  "precache-manifest.eb47a325ecc0679c009934a3dd390564.js": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/precache-manifest.eb47a325ecc0679c009934a3dd390564.js",
+  "service-worker.js": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/service-worker.js",
+  "static/css/main.db4a5207.chunk.css.map": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/css/main.db4a5207.chunk.css.map",
+  "static/media/profile.jpeg": "/leo-tavares/leo-tavares.github.io/tree/gh-pages/static/media/profile.6134e0e0.jpeg"
 }

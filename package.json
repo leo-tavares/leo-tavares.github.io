@@ -2,7 +2,7 @@
   "name": "psw-pagina-pessoal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leo-tavares.github.io",
+  "homepage": "https://leo-tavares.github.io/psw",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",

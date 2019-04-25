@@ -56,7 +56,7 @@ const Body = () => {
                 </p>
             </blockquote>
             <blockquote>
-                <h3>Abaixo nós uma prova do ganho de performance em um carro classico</h3>
+                <h3>Abaixo temos uma prova do ganho de performance em um carro classico</h3>
                 <iframe
                     title="ref1"
                     width="100%"

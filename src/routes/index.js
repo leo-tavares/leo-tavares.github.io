@@ -6,7 +6,7 @@ import Header from '../components/Header';
 import Programming from '../pages/programming/Programming';
 
 const AppRouter = () => (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <Header/>
         <Route exact path="/" component={Home}/>
         <Route path="/programming/" component={Programming}/>

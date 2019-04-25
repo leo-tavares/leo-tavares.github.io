@@ -1,6 +1,7 @@
 import React from 'react';
 import TextLink from '../TextLink';
 import Greetings from './Greetings';
+import ProjectStructure from './ProjectStructure';
 
 const Body = () => {
     return (
@@ -33,6 +34,8 @@ const Body = () => {
                 <TextLink text="React" link="https://reactjs.org/"/>. Uma das grandes vantagens de se usar React
                 é poder <em><u>injetar</u></em> HTML no javascript isso permite uma boa flexibilidade para a criação de componentes.
             </p>
+            <h3>Estrura do projeto</h3>
+            <ProjectStructure/>
         </>
     )
 }

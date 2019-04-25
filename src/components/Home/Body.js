@@ -18,7 +18,7 @@ const Body = () => {
             <h3>Como iniciei em Ciência da Computação?</h3>
             <p>
                 Minha chegada na área da computação começou com o meu desejo de preparar motores, por volta de 2005
-                (<TextLink text="entenda aqui" link="/automotive"/>). Naqueles dias a receita mais comum de
+                . Naqueles dias a receita mais comum de
                 preparação era usar o motor Ap com kit-turbo, o pessoal chama de <em> kit padaria </em>, em outras
                 palavras um golzinho com um kit turbo basico era receita para felicidade.<br/>
                 Eu não lembro em qual revista eu li mas quando eu descobri os modulos de potência e as injeções
